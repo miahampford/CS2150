@@ -1,0 +1,1 @@
+// Amelia Hampford// agh3ft// 01/24/18//  lifecycle.questions.txtI don’t quite understand the cat command. Does it display contents or let you write them to a different file? 
